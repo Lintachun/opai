@@ -1,3 +1,4 @@
-將你的api key 寫入
+運行Gpt_gradio_ui_test.py檔
 
-運行opai.py檔
+根據UI介面填入資訊
+就可以執行
